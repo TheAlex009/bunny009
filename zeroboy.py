@@ -100,7 +100,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Youtube.com/ Q BATAO😎
+            os.system('xdg-open
     else:
         print "Wrong Username"
 ')
